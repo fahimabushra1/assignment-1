@@ -1,6 +1,8 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
 }
 #blue{
     color: aqua;
@@ -18,4 +20,20 @@ body{
     padding: 10px 10px;
     border-radius: 10px;
     color: darkmagenta;
+}
+.mission{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.determine-text{
+    width: 50%;
+    padding: 5%;
+}
+.dimg{
+    width: 60%;
+    padding-left: 5%;
+}
+img{
+    width: 80%;
 }
