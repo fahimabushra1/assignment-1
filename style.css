@@ -1,0 +1,21 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 15%;
+}
+#blue{
+    color: aqua;
+}
+.fnt{
+    font-family: 'Lora', serif;
+    font-size: 50px;
+    border-left: 5px solid;
+    border-color: cadetblue;
+    padding-left: 2%;
+}
+.link-button{
+    text-decoration-line: none;
+    background-image: linear-gradient(rgb(126, 135, 177),rgb(92, 60, 122));
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: darkmagenta;
+}
