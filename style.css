@@ -58,28 +58,46 @@ h3{
 .div1{
     background-color: rgb(78, 145, 122);
     border: 10% solid gray;
-    width: 40%;
+    width: 80%;
     border-radius: 10%;
-    box-shadow: 10% 40% 15% gray;
+    box-shadow:  10px 10px 50px gray;
     padding-left: 5%;
     padding-right: 5%;
+    margin-right: 10%;
+    margin-left: 10%;
 }
 .div2{
     background-color: rgb(216, 139, 25);
     border: 10% solid gray;
     border-radius: 10%;
-    width: 40%;
-    box-shadow: 10% 40% 15% gray;
+    width: 80%;
+    box-shadow:  10px 10px 50px gray;
     padding-left: 5%;
     padding-right: 5%;
-    height: 10%;
+    margin-right: 10%;
+    margin-left: 10%;
 }
 .div3{
     background-color: rgb(95, 52, 143);
     border: 10% solid gray;
     border-radius: 10%;
-    width: 40%;
-    box-shadow: 10% 40% 15% gray;
+    width: 80%;
+    box-shadow: 10px 10px 50px gray;
     padding-left: 5%;
     padding-right: 5%;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.quote{
+    box-shadow: 10px 10px 50px cyan;
+    width: 80%;
+    margin-left:5%;
+    margin-right: 5%;
+    color: rgb(29, 153, 18);
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-top:10% ;
 }
